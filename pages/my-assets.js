@@ -69,7 +69,7 @@ export default function MyAssets() {
                             // placeholder="blur" // Optional blur-up while loading
                           />
                 <div className="p-4 bg-black">
-                  <p className="text-2xl font-bold text-white">Price - {nft.price} ETH</p>
+                  <p className="text-2xl font-bold text-white">Price - {nft.price} Matic</p>
                 </div>
               </div>
             ))
